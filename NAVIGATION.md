@@ -6,21 +6,21 @@ Where Am I ?
 
 - Start at User Home Directory noted by ` ~ `.
 - Find Where you are execute ` pwd `.
-  ```bash
-    user-name@machine-name:~$ pwd
-    /home/user-name
-  ```
+```bash
+user-name@machine-name:~$ pwd
+/home/user-name
+```
 
 Moving Around 
 ---
 
 - ` cd ` Change Directory, followed by directory path to go to.
-  ```bash
-    user-name@machine-name:~$ cd Documents
-    user-name@machine-name:~/Documents$  ▋
-  ```
+```bash
+user-name@machine-name:~$ cd Documents
+user-name@machine-name:~/Documents$  ▋
+```
 - ` ls ` list current Directory, or followed by directory path to list.
-  ```bash
+```bash
 user-name@machine-name:~$ ls
 Documents    Dropbox    Movies    Pictures   Public
 user-name@machine-name:~$  ▋
