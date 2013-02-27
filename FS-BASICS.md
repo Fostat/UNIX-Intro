@@ -1,15 +1,18 @@
-# File System Basics
+File System Basics
+===
 
-### `/`, File and Directories. 
+'/', File and Directories
+---
 
-- `/` is the Root/Top of the system.
+- '/' is the Root/Top of the system.
 - All data is organized into Files.
 - Files are organized into Directories (aka Folders).
 - Every thing is a File/Directory.
 
 ---
 
-### Basic File Types:
+Basic File Types:
+---
 
 - __Ordinary Files__, Usaly Plain Text File.
 - __Directories__, Is where files are stored (aka Folders).
