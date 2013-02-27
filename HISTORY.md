@@ -43,7 +43,7 @@
 - Taught, Used and Developed  in Universities like Berkley, MIT.
 
 ##### Most Popular UNIX Offsprings
-
+---
 - Open Source:
   - BSD — Berkeley Software Distribution
 - Closed Source:
@@ -55,3 +55,10 @@
 
 ===
 
+### UNIX Philosophy:
+---
+- Do One Thing Well.
+- Output is Input.
+- Everything is a Text Strems/File
+
+===
