@@ -1,4 +1,5 @@
-# UNIX History
+UNIX History
+===
 
 Pre-UNIX: _Operating Systems_
 ---
