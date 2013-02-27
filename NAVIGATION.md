@@ -21,8 +21,8 @@ Moving Around
   ```
 - ` ls ` list current Directory, or followed by directory path to list.
   ```bash
-    user-name@machine-name:~$ ls
-    Documents    Dropbox    Movies    Pictures   Public    
-    user-name@machine-name:~$  ▋
-  ```
+user-name@machine-name:~$ ls
+Documents    Dropbox    Movies    Pictures   Public
+user-name@machine-name:~$  ▋
+```
 - 
