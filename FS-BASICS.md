@@ -9,7 +9,7 @@ File System Basics
 - Files are organized into Directories (aka Folders).
 - Every thing is a File/Directory.
 
----
+>
 
 Basic File Types:
 ---
@@ -20,8 +20,10 @@ Basic File Types:
   - Links, (aka shortcuts, aliases).
   - Hardware Refrance, i.e: HDD, CD-DVD ROM, Modems, others.
 
+>
+
 ---
 ---
 
-Next [Navigation](NAVIGATION.md)
-Previous [Unix History, Now and Philosophy](HISTORY.md)
+- Next [Navigation](NAVIGATION.md)
+- Previous [Unix History, Now and Philosophy](HISTORY.md)
