@@ -64,5 +64,5 @@
 ===
 ===
 
-Next [File System Basics](FS-BASICS.md)
-Previous [TOC](README.md)
+- Next [File System Basics](FS-BASICS.md)
+- Previous [TOC](README.md)
