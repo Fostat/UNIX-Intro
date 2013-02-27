@@ -6,7 +6,7 @@ Where Am I ?
 
 - Start at User Home Directory noted by ` ~ `.
 - Find Where you are execute ` pwd `.
-```bash
+- ```bash
 user-name@machine-name:~$ pwd
 /home/user-name
 ```
