@@ -61,8 +61,8 @@
 - Output is Input.
 - Everything is a Text Strems/File
 
-===
-===
+---
+---
 
 - Next [File System Basics](FS-BASICS.md)
 - Previous [TOC](README.md)
