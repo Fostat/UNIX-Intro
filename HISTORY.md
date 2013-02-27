@@ -2,9 +2,9 @@
 
 ### Pre-UNIX: _Operating Systems_
 ---
-- Single User Environment.
-- Users were granted time sharing slots from remote terminal.
+- Single User Environment (Users were granted time sharing slots from remote terminal).
 - Machine Dependent.
+- Hard to Maintain and Update.
 
 ===
 
