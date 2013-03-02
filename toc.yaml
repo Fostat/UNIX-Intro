@@ -1,0 +1,15 @@
+- keyword: history
+  title:   'Unix History, Now and Philosophy'
+  filename: '01.history.md'
+
+- keyword: the-shell
+  title:   'The Shell, The Terminal'
+  filename: '02.the-shell.md'
+
+- keyword: fs-basics
+  title:   'File System Basics'
+  filename: '03.fs-basics.md'
+
+- keyword: navigation
+  title:   'Navigating'
+  filename: '04.navigation.md'
