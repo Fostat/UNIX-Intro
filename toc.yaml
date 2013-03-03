@@ -1,15 +1,29 @@
-- keyword: history
-  title:   'Unix History, Present and Philosophy'
-  filename: '01.history.md'
+- chapter: UNIX Basics
 
-- keyword: the-shell
-  title:   'The Shell, The Terminal'
-  filename: '02.the-shell.md'
+  sections: 
+    - slug:      "history"
+      title:     "Unix History, Present and Philosophy"
+      filename:  "01.history.md"
 
-- keyword: fs-basics
-  title:   'File System Basics'
-  filename: '03.fs-basics.md'
+    - slug:      "the-shell"
+      title:     "The Shell, The Terminal"
+      filename:  "02.the-shell.md"
 
-- keyword: navigation
-  title:   'Navigating'
-  filename: '04.navigation.md'
+    - slug:      "commands-strcture"
+      title:     "Commands Structure"
+      filename:  "03.commands-structure.md"
+
+    - slug:      "fs-basics"
+      title:     "File System Basics"
+      filename:  "04.fs-basics.md"
+
+    - slug:      "navigation"
+      title:     "Navigating UNIX"
+      filename:  "05.navigation.md"
+
+- chapter: UNIX Shell Scripting
+
+  sections:
+    - slug:       "TBA"
+      title:      "TBA"
+      filename:   ""
