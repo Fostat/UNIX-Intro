@@ -1,5 +1,5 @@
-# UNIX an Introductory Tutorial.
+# UNIX - Introductory Tutorial.
 ===
 
-An Intrudctory Course Into the World of UNIX/UNIX-Like System.
+##### An Intrudctory Course Into the World of UNIX/UNIX-Like System.
 
