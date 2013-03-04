@@ -5,6 +5,7 @@ An Intrudctory Course Into the World of UNIX
 
 ## TOC
 
-- [Unix History, Now and Philosophy.](HISTORY.md)
-- [File System Basics.](FS-BASICS.md)
+1. [Unix History, Now and Philosophy.](01.history.md)
+2. [File System Basics.](FS-BASICS.md)
+3. TBA
 
