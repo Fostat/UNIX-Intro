@@ -7,9 +7,4 @@ An Intrudctory Course Into the World of UNIX
 
 - [Unix History, Now and Philosophy.](HISTORY.md)
 - [File System Basics.](FS-BASICS.md)
-- TBA
-- TBA
-- TBA
-
----
 
