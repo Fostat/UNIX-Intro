@@ -1,29 +1,59 @@
+#
+# Files Structure Guide.
+#
+#   This files helps the website to auto-genrate pages
+#   And Navigation with SEO friendly URLS.
+#
+#######
+#
+# File Structure:
+#   tree like structure.
+#
+#                               ┃
+#                  ┏━━━━━━━━━━━━┻━━━━━━━━━━━━┳┉┉┉┉┈┈┈
+#               chapter                   chapter
+#                  ┃                         ┋
+#              ┏━━━┻━━━┓                  ┈┉┉┻┉┉┈
+#          sections  title                 
+#              ┃
+#         ┏━━━━┻━┳━━━━━━┳━━━━━━┳━━━━━┓
+#       page   page   page   page   page**
+#         ┃      ┃      ┋      ┋     ┃
+#       ┏━┛      ┃                   ┃
+#   filename  ┏━━┻━━━━━━━┓           ┃
+#           filename   title*        ┃
+#                                ┏━━━┻━━━━┓
+#                               title   sections
+#                                   ┏━━━━━━╋━━━━━━┓
+#                              subpage  subpage  subpage***
+#                                   ┋      ┋      ┋
+#
+# (!) pages, subpages are not keys, but list items as dict with keys [filename,title]. 
+#   * title, ∀ pages titles are optinal, in such case title is the first `h1` in it's assoiated file 
+#  ** pages, with sections will link to it's first page, souldn't have a filename key-value.
+# *** subpage, shouldn't include sections with in it.
+#                       
+########
+
+
+
 - chapter: UNIX Basics
 
   sections: 
-    - slug:      "history"
+    - filename:  "history.md"
       title:     "Unix History, Present and Philosophy"
-      filename:  "01.history.md"
 
-    - slug:      "the-shell"
+    - filename:  "the-shell.md"
       title:     "The Shell, The Terminal"
-      filename:  "02.the-shell.md"
 
-    - slug:      "commands-strcture"
-      title:     "Commands Structure"
-      filename:  "03.commands-structure.md"
+    - filename:  "commands-structure.md"
 
-    - slug:      "fs-basics"
-      title:     "File System Basics"
-      filename:  "04.fs-basics.md"
+    - filename:  "fs-basics.md"
 
-    - slug:      "navigation"
-      title:     "Navigating UNIX"
-      filename:  "05.navigation.md"
+    - filename:  "navigation.md"
 
 - chapter: UNIX Shell Scripting
 
   sections:
-    - slug:       "TBA"
+    - filename:   ""
       title:      "TBA"
-      filename:   ""
