@@ -29,7 +29,7 @@
 #                                   ┋      ┋      ┋
 #
 # (!) pages, subpages are not keys, but list items as dict with keys [filename,title]. 
-#   * title, ∀ pages titles are optinal, in such case title is the first `h1` in it's assoiated file 
+#   * title, ∀ pages titles are optinal, in such case title is the first `h1` in it's associated file 
 #  ** pages, with sections will link to it's first page, souldn't have a filename key-value.
 # *** subpage, shouldn't include sections with in it.
 #                       
